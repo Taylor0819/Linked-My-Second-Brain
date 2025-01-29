@@ -14,8 +14,8 @@
 	미팅노트 내용에 대해 q&a 기능, 기록중에 검색해서 내용 보완, ai 와 브레인스토밍, keyword 설명,
 	의견, 채팅탭의 내용 보완해서 미팅노트 수정 
 	
-![[Pasted image 20250106120313.png]]
-![[Pasted image 20250106120035.png]]
-![[Pasted image 20250106120148.png]]
+![Pasted image 20250106120313.png](Pasted%20image%2020250106120313.png)
+![Pasted image 20250106120035.png](Pasted%20image%2020250106120035.png)
+![Pasted image 20250106120148.png](Pasted%20image%2020250106120148.png)
 
 ## 하이에라
