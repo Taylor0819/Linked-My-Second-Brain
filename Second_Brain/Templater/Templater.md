@@ -1,5 +1,5 @@
 
-<%*const GEMINI_API_KEY="AIzaSyAEH5r-0nugJnhU9OQziWpq81fWEbjPCFU"%>
+<%*const GEMINI_API_KEY=""%>
  
 <%*
 // 요약 프롬프트
