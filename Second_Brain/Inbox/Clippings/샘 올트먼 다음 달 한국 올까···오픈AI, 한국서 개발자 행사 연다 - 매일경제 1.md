@@ -1,15 +1,23 @@
 ---
-title: "샘 올트먼 다음 달 한국 올까···오픈AI, 한국서 개발자 행사 연다 - 매일경제"
-source: "https://www.mk.co.kr/news/it/11226918"
+title: 샘 올트먼 다음 달 한국 올까···오픈AI, 한국서 개발자 행사 연다 - 매일경제
+source: https://www.mk.co.kr/news/it/11226918
 author:
   - "[[정호준]]"
 published: 2025-01-24
 created: 2025-01-25
-description: "2월4일 AI 개발자 대상 ‘빌더랩’ 행사 예정 2023·2024년에도 한차례씩 방문"
+description: 2월4일 AI 개발자 대상 ‘빌더랩’ 행사 예정 2023·2024년에도 한차례씩 방문
 tags:
-  - "clippings"
+  - clippings
+topics:
+  - "[📖 100 연구](📖%20100%20연구.md)"
+  - "[📚 103 AI 트렌드](📚%20103%20AI%20트렌드.md)"
+  - "[📖 200 AI & 데이터](📖%20200%20AI%20&%20데이터.md)"
+  - "[📚 250 AI 서비스 구축](📚%20250%20AI%20서비스%20구축.md)"
+  - "[[📖 500 강의 & 컨설팅]]"
+  - "[[📚 501 기업 컨설팅]]"
 ---
-Summary : 
+> [!summary]
+> 오픈AI가 2월 4일 국내 AI 개발자를 대상으로 첫 번째 '빌더랩' 행사를 개최한다. 약 100명 내외의 비공개 행사로 진행될 예정이며, 구체적인 내용은 아직 공개되지 않았다. 샘 올트먼 CEO는 2023년과 2024년 두 차례 한국을 방문한 바 있어, 이번 행사 참석 여부에 관심이 쏠리고 있다. 오픈AI는 한국에 지사를 두고 있지는 않지만, 한국산업은행과 업무협약을 맺고, 스픽이지랩스코리아에 투자하는 등 한국 시장에 꾸준한 관심을 보여왔다. 이번 행사에는 국내 주요 대기업과 AI 스타트업들이 참여할 것으로 예상된다. 이는 오픈AI가 한국 AI 기술 생태계와의 협력을 강화하고, 국내 개발자들과의 교류를 통해 혁신적인 AI 서비스 개발을 촉진하려는 의도로 풀이된다.Summary : 
 - OpenAI to hold first Korean 'Builder Lab' event on Feb 4th for AI developers
 - Event will be private with around 100 attendees
 - Sam Altman has visited Korea twice before (2023, 2024)

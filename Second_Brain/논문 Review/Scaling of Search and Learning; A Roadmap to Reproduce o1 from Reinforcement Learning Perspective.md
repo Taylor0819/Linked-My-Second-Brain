@@ -1,3 +1,8 @@
+---
+index:
+  - "[🏷️ AI](🏷️%20AI.md)"
+  - "[🏷️ 논문](🏷️%20논문.md)"
+---
 *One thing that should be learned from the bitter lesson is the great power of general
 purpose methods, of methods that continue to scale with increased computation
 even as the available computation becomes very great. The two methods that seem
@@ -25,4 +30,4 @@ o1의 성능은 강화 학습과 추론의 계산 증가에 따라 지속적으�
  
 
 
-#AI #LLM #ReinforcementLearning #Scaling #Search #Learning
+#AI #LLM #ReinforcementLearning #Scaling #Search #Learning [🏷️ 논문](🏷️%20논문.md)

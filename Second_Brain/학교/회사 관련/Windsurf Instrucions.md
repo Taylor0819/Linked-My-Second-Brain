@@ -82,11 +82,11 @@ The user should include this file in their prompt by referencing:
 이 instruction 바탕으로 파일 세개 생성하고 거기에 log 기록
 `@cascade_tracking.md`, `@development_log.md`, `@project_status.md`
 - cascade_tracking.md : cascade 추적 로그 
-- ![Pasted image 20241204154337.png](../../assets/Pasted%20image%2020241204154337.png)
+- ![Pasted image 20241204154337.png](Pasted%20image%2020241204154337.png)
 - development_log.md : 개발 주요 변경사항 로그 
-- ![Pasted image 20241204154305.png](../../assets/Pasted%20image%2020241204154305.png)
+- ![Pasted image 20241204154305.png](Pasted%20image%2020241204154305.png)
 - project_status.md : 프로젝트 상태 업데이트 , 진행상황체크 및 앞으로 해야할  todo list 작성 해줌 
-- ![Pasted image 20241204154235.png](../../assets/Pasted%20image%2020241204154235.png)
+- ![Pasted image 20241204154235.png](Pasted%20image%2020241204154235.png)
 
 주의 자동으로 작성하게끔 했으나, 로그기록 까먹을수도있어서 중요한 기능이 있으면 @Instructions.md 한번 더 태깅해서 읽게끔 해보세용 !
 
